@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%" />
+  <img src="./assets/GithubBanner.png" alt="Header" width="100%" />
 </p>  
 
 ## Ich bin Tino, Hobby-DJ und Technikfan aus Leipzig  
